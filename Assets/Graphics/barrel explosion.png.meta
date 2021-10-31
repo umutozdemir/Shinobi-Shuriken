@@ -1,0 +1,719 @@
+fileFormatVersion: 2
+guid: 94596072db64dd345a17d00d5213a42b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7163560602546002938
+    second: barrel explosion_0
+  - first:
+      213: 1349821304473649871
+    second: barrel explosion_1
+  - first:
+      213: -7319154846891594743
+    second: barrel explosion_2
+  - first:
+      213: -4026131753859160335
+    second: barrel explosion_3
+  - first:
+      213: -506439566756753904
+    second: barrel explosion_4
+  - first:
+      213: 4350169129330647487
+    second: barrel explosion_5
+  - first:
+      213: 1254196590216205565
+    second: barrel explosion_6
+  - first:
+      213: 4169271021211808021
+    second: barrel explosion_7
+  - first:
+      213: 1135716566100005849
+    second: barrel explosion_8
+  - first:
+      213: -507324624807554763
+    second: barrel explosion_9
+  - first:
+      213: 1683287701721649791
+    second: barrel explosion_10
+  - first:
+      213: -8775339092698069065
+    second: barrel explosion_11
+  - first:
+      213: -7903694255710152840
+    second: barrel explosion_12
+  - first:
+      213: -2553714698322305022
+    second: barrel explosion_13
+  - first:
+      213: 3217055064078212694
+    second: barrel explosion_14
+  - first:
+      213: -5147505298391122225
+    second: barrel explosion_15
+  - first:
+      213: 7655171185348480332
+    second: barrel explosion_16
+  - first:
+      213: 3431365721925684063
+    second: barrel explosion_17
+  - first:
+      213: 6599360101997474086
+    second: barrel explosion_18
+  - first:
+      213: -2579415706896606305
+    second: barrel explosion_19
+  - first:
+      213: 5221568224112005584
+    second: barrel explosion_20
+  - first:
+      213: 2301929853015628723
+    second: barrel explosion_21
+  - first:
+      213: -7716845905703254737
+    second: barrel explosion_22
+  - first:
+      213: 4095598328069551309
+    second: barrel explosion_23
+  - first:
+      213: -881162325981450231
+    second: barrel explosion_24
+  - first:
+      213: 1074480818929224610
+    second: barrel explosion_25
+  - first:
+      213: -1895953971397539097
+    second: barrel explosion_26
+  - first:
+      213: -257037733674109669
+    second: barrel explosion_27
+  - first:
+      213: -291314546859327391
+    second: barrel explosion_28
+  - first:
+      213: 3128418832609369722
+    second: barrel explosion_29
+  - first:
+      213: -366201287204507783
+    second: barrel explosion_30
+  - first:
+      213: 1594415132069365179
+    second: barrel explosion_31
+  - first:
+      213: 8389955531212613861
+    second: barrel explosion_32
+  - first:
+      213: 3103735918944302726
+    second: barrel explosion_33
+  - first:
+      213: 1020442165331904515
+    second: barrel explosion_34
+  - first:
+      213: 944938123331683019
+    second: barrel explosion_35
+  - first:
+      213: -6926462889821329252
+    second: barrel explosion_36
+  - first:
+      213: 1872655790499955465
+    second: barrel explosion_37
+  - first:
+      213: 2798706028368992744
+    second: barrel explosion_38
+  - first:
+      213: 7522190450390040323
+    second: barrel explosion_39
+  - first:
+      213: 1281640645016026453
+    second: barrel explosion_40
+  - first:
+      213: -3320030316056447308
+    second: barrel explosion_41
+  - first:
+      213: 1294275657104299566
+    second: barrel explosion_42
+  - first:
+      213: 800973296337482622
+    second: barrel explosion_43
+  - first:
+      213: -4978710942805994324
+    second: barrel explosion_44
+  - first:
+      213: -8616989238162029578
+    second: barrel explosion_45
+  - first:
+      213: -5393743176492630998
+    second: barrel explosion_46
+  - first:
+      213: 4117580753531092495
+    second: barrel explosion_47
+  - first:
+      213: -7509468685839976845
+    second: barrel explosion_48
+  - first:
+      213: -7531844564080315136
+    second: barrel explosion_49
+  - first:
+      213: -6983697090372121562
+    second: barrel explosion_50
+  - first:
+      213: 5253942139632638788
+    second: barrel explosion_51
+  - first:
+      213: 1096998697645417638
+    second: barrel explosion_52
+  - first:
+      213: 6438838151447826791
+    second: barrel explosion_53
+  - first:
+      213: -8560587719014939895
+    second: barrel explosion_54
+  - first:
+      213: -7843211860811520648
+    second: barrel explosion_55
+  - first:
+      213: 5916292354120858366
+    second: barrel explosion_56
+  - first:
+      213: 8564204464218203072
+    second: barrel explosion_57
+  - first:
+      213: -992269014918153697
+    second: barrel explosion_58
+  - first:
+      213: -977044906748984536
+    second: barrel explosion_59
+  - first:
+      213: -7200071428829237257
+    second: barrel explosion_60
+  - first:
+      213: 4240408875288731609
+    second: barrel explosion_61
+  - first:
+      213: 5197917700010054039
+    second: barrel explosion_62
+  - first:
+      213: 7062113454875168544
+    second: barrel explosion_63
+  - first:
+      213: 8933027137207361417
+    second: barrel explosion_64
+  - first:
+      213: -8291638637954391196
+    second: barrel explosion_65
+  - first:
+      213: -8807770602707728466
+    second: barrel explosion_66
+  - first:
+      213: 5312406129591384936
+    second: barrel explosion_67
+  - first:
+      213: -7954728764835392117
+    second: barrel explosion_68
+  - first:
+      213: -1916945903373528027
+    second: barrel explosion_69
+  - first:
+      213: 5040017022836093881
+    second: barrel explosion_70
+  - first:
+      213: -6213376298025732529
+    second: barrel explosion_71
+  - first:
+      213: 6462825106087260249
+    second: barrel explosion_72
+  - first:
+      213: -6144113324969762646
+    second: barrel explosion_73
+  - first:
+      213: 3573116895325106481
+    second: barrel explosion_74
+  - first:
+      213: -1158985994456535982
+    second: barrel explosion_75
+  - first:
+      213: 6586379952592415791
+    second: barrel explosion_76
+  - first:
+      213: 1681522199889434116
+    second: barrel explosion_77
+  - first:
+      213: -8159807269588703205
+    second: barrel explosion_78
+  - first:
+      213: 6063924530087091404
+    second: barrel explosion_79
+  - first:
+      213: -728520878294849022
+    second: barrel explosion_80
+  - first:
+      213: 2039102376633366414
+    second: barrel explosion_81
+  - first:
+      213: -7752116158334636679
+    second: barrel explosion_82
+  - first:
+      213: 4819421450367201227
+    second: barrel explosion_83
+  - first:
+      213: -6264658763215585409
+    second: barrel explosion_84
+  - first:
+      213: -6030415100999853784
+    second: barrel explosion_85
+  - first:
+      213: -7530900089899608838
+    second: barrel explosion_86
+  - first:
+      213: 6770096276040320508
+    second: barrel explosion_87
+  - first:
+      213: 2710924308713782921
+    second: barrel explosion_88
+  - first:
+      213: -3221781814431533116
+    second: barrel explosion_89
+  - first:
+      213: -8089695597769014255
+    second: barrel explosion_90
+  - first:
+      213: -8952308463437160603
+    second: barrel explosion_91
+  - first:
+      213: -4561413112921020011
+    second: barrel explosion_92
+  - first:
+      213: -7622333074226451624
+    second: barrel explosion_93
+  - first:
+      213: 6862440027575281870
+    second: barrel explosion_94
+  - first:
+      213: -3547664366514842085
+    second: barrel explosion_95
+  - first:
+      213: -6642726911994156561
+    second: barrel explosion_96
+  - first:
+      213: -8161406099639136741
+    second: barrel explosion_97
+  - first:
+      213: 1417622802156612009
+    second: barrel explosion_98
+  - first:
+      213: -1689730217929045526
+    second: barrel explosion_99
+  - first:
+      213: -2193118692605385634
+    second: barrel explosion_100
+  - first:
+      213: -221172757385367177
+    second: barrel explosion_101
+  - first:
+      213: -1840207297482599143
+    second: barrel explosion_102
+  - first:
+      213: 5884117429099835426
+    second: barrel explosion_103
+  - first:
+      213: -2243714487171456930
+    second: barrel explosion_104
+  - first:
+      213: -7428882659126213586
+    second: barrel explosion_105
+  - first:
+      213: -6404797773600867127
+    second: barrel explosion_106
+  - first:
+      213: -3599146476856279321
+    second: barrel explosion_107
+  - first:
+      213: -6673171557025552608
+    second: barrel explosion_108
+  - first:
+      213: -7514199417814349758
+    second: barrel explosion_109
+  - first:
+      213: -2699964828691880751
+    second: barrel explosion_110
+  - first:
+      213: -6688001441770953337
+    second: barrel explosion_111
+  - first:
+      213: 8981554021673766
+    second: barrel explosion_112
+  - first:
+      213: -1351938763032160017
+    second: barrel explosion_113
+  - first:
+      213: -1254331981904693209
+    second: barrel explosion_114
+  - first:
+      213: -3518516130553845986
+    second: barrel explosion_115
+  - first:
+      213: 6870069321709310088
+    second: barrel explosion_116
+  - first:
+      213: -2985790490880136172
+    second: barrel explosion_117
+  - first:
+      213: 2060584499917015823
+    second: barrel explosion_118
+  - first:
+      213: 939818249246740766
+    second: barrel explosion_119
+  - first:
+      213: -18780402560418524
+    second: barrel explosion_120
+  - first:
+      213: 2688362994755513415
+    second: barrel explosion_121
+  - first:
+      213: 8025612968868650781
+    second: barrel explosion_122
+  - first:
+      213: 3928298958385350574
+    second: barrel explosion_123
+  - first:
+      213: 350058037099223322
+    second: barrel explosion_124
+  - first:
+      213: -883383861593991268
+    second: barrel explosion_125
+  - first:
+      213: 8113247628056813883
+    second: barrel explosion_126
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: barrel explosion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604234e069be59c90800000000000000
+      internalID: -7163560602546002938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel explosion_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2086323578bb210800000000000000
+      internalID: 1349821304473649871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel explosion_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ca2fef1732d6a90800000000000000
+      internalID: -7319154846891594743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel explosion_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6ed40508e4028c0800000000000000
+      internalID: -4026131753859160335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel explosion_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ec243b5e3c8f8f0800000000000000
+      internalID: -506439566756753904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel explosion_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1af9266c7ee5c30800000000000000
+      internalID: 4350169129330647487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel explosion_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4d75e572dc76110800000000000000
+      internalID: 1254196590216205565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel explosion_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511f8af67e93cd930800000000000000
+      internalID: 4169271021211808021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel explosion_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3dae71330e2cf00800000000000000
+      internalID: 1135716566100005849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel explosion_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531998011fe95f8f0800000000000000
+      internalID: -507324624807554763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

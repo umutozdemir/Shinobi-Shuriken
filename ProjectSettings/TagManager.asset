@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Melee Enemy
+  - SpawnPoint
+  - RoomTemplates
+  - Rooms
+  - Shuriken
+  - Nails
+  - Archer Enemy
+  - Buff1
+  - Buff2
+  - Buff3
+  - BuffSelectionPanel
+  - GameOverPanel
+  - Teleport
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Map
+  - 'Player '
+  - Obstacle
+  - Enemies
+  - Shuriken
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 1701300731
+    locked: 0
+  - name: Shuriken
+    uniqueID: 3904595255
+    locked: 0
+  - name: Obstacle
+    uniqueID: 2210763729
+    locked: 0
+  - name: Enemy
+    uniqueID: 3159304925
+    locked: 0
+  - name: Player
+    uniqueID: 3735364349
+    locked: 0
+  - name: ESIK
+    uniqueID: 4099639087
+    locked: 0
